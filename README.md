@@ -16,17 +16,6 @@
 
 ---
 
-## 文件结构
-.
-├── data/ # 数据集（SQuAD v1.1）
-├── models/ # 保存预训练模型和微调后的模型
-├── scripts/ # 训练和评估脚本
-├── README.md # 本文件
-└── requirements.txt # Python 依赖
-
-
----
-
 ## 环境依赖
 
 请确保 Python >=3.8，并安装以下库：
