@@ -25,6 +25,7 @@ pip install torch==2.8.0 torchvision torchaudio --index-url https://download.pyt
 pip install transformers==4.57.3
 pip install datasets
 pip install numpy tqdm
+```
 
 可选 GPU 支持：NVIDIA GPU + CUDA 13.0
 
